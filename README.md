@@ -1,7 +1,7 @@
 # AZURE-VIRTUAL-MACHINE
 # Setting Up an Ubuntu VM with GUI on Azure
 
-This guide will help you create an Ubuntu Virtual Machine (VM) on Azure, install a GUI, configure an RDP server, and connect to it using Remote Desktop Protocol (RDP).
+This project will guide you to create an Ubuntu Virtual Machine (VM) on Azure, install a GUI, configure an RDP server, and connect to it using Remote Desktop Protocol (RDP).
 
 ## Prerequisites
 
